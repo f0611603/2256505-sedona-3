@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Андрей Кижло](https://up.htmlacademy.ru/htmlcss-individual/3/user/2256505).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Козюков](https://htmlacademy.ru/profile/id1119885).
 
 ---
 
