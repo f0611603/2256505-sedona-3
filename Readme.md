@@ -2,6 +2,7 @@
 
 * Студент: [Андрей Кижло](https://up.htmlacademy.ru/htmlcss-individual/3/user/2256505).
 * Наставник: [Александр Козюков](https://htmlacademy.ru/profile/id1119885).
+* Сайт: (https://f0611603.github.io/2256505-sedona-3/)
 
 ---
 
